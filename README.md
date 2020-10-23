@@ -1,5 +1,5 @@
 # Benford-s-Law
 Benford's Law. History, mathematical justification and applications.
 
-Contributor:
+# Contributor:
   Naila Talavera - @NailaTalavera
